@@ -43,4 +43,4 @@ Since the dataset did not include a predefined target variable required for clas
 
 
 ### Summary
-This project showcases how to transform an unlabeled dataset into a classification problem using clustering-based label generation. By combining unsupervised learning for label creation with supervised learning for classification, this approach allows for effective risk prediction even in the absence of labeled target data. The methodology is scalable and can be adapted for other similar use cases in domains like finance, marketing, or healthcare.
+This project showcases how to transform an unlabeled dataset into a classification problem using clustering-based label generation. By combining unsupervised learning for label creation with supervised learning for classification, this approach allows for effective risk prediction even in the absence of labeled target data.
